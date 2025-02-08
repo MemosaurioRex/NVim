@@ -1,0 +1,9 @@
+# Folders
+autoload/
+plugged/
+session/
+
+# Files
+*.swp
+*.bak
+*.swm
